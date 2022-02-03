@@ -22,9 +22,9 @@ src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
 <p align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol-Qr)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=android-app%3A%2F%2Forg.telegram.plus&template=https%3A%2F%2Fgithub.com%2FMicky-vicky%2Fluttappiwa)
     
 - - -
 </p>
